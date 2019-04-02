@@ -1,5 +1,6 @@
 # ImageGridView
 微博，微信九宫格图片布局，配上目前可能是Android最好的大图浏览效果。
+由[https://github.com/jeasonlzy/NineGridView](https://github.com/jeasonlzy/NineGridView)修改而来。
 
 ## Demo
 ![](/screenshot/demo.gif)
